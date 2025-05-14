@@ -29,7 +29,7 @@ pygame.display.set_caption("Robot Path Planning")
 
 # Load and scale robot image
 try:
-    ROBOT_IMG = pygame.image.load("robot.png")
+    ROBOT_IMG = pygame.image.load("BMO.png")
     ROBOT_IMG = pygame.transform.scale(ROBOT_IMG, (CELL_SIZE, CELL_SIZE))
 except pygame.error:
     # Fallback if image not found
