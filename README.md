@@ -2,7 +2,7 @@
 
 A Python application that visualizes robot path planning algorithms in a grid-based environment.
 
-![Robot Path Planning](robot.png)
+![Robot Path Planning](BMO.png)
 
 ## Description
 
